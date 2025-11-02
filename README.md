@@ -3,16 +3,26 @@
 # Arabian Soundscape
 > A creative Python-coded musical composition that merges the Arabic Hijaz maqam with modern trap and R&B rhythms.  
 
-## Table of Contents
+Table of Contents
+
 [General Info](#general-information)
+
 [Technologies Used](#technologies-used)
+
 [Features](#features)
+
 [Screenshots](#screenshots)
+
 [Setup](#setup)
+
 [Usage](#usage)
+
 [Project Status](#project-status)
+
 [Room for Improvement](#room-for-improvement)
+
 [Acknowledgements](#acknowledgements)
+
 [Contact](#contact)
 
 ## General Information
