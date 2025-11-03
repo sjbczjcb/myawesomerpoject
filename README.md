@@ -11,7 +11,7 @@ Table of Contents
 
 [Features](#features)
 
-[Screenshots](#screenshots)
+[Features](#features)
 
 [Setup](#setup)
 
