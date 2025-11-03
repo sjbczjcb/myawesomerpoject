@@ -107,8 +107,8 @@ Created by Amira Abou Ali
 Bachelor of Communication (Social & Political Science / Digital Media), UTS  
 
 References (APA 7th Edition)
-Ableton. (2024).
-Maqam tuning presets for Live 12 (by Sami Abu Shumays) [Software preset]. https://tuning.ableton.com/arabic-maqam/maqam-guide/  
+
+Ableton. (2024). Maqam tuning presets for Live 12 (by Sami Abu Shumays) [Software preset]. https://tuning.ableton.com/arabic-maqam/maqam-guide/  
 AMAR Foundation. (2015). The Hijaz maqam. https://www.amar-foundation.org/098-the-hijaz-maqam/  
 EarSketch. (2025). EarSketch [Computer software]. Georgia Institute of Technology. https://earsketch.gatech.edu/  
 EarSketch Teachers. (2024). About us. EarSketch Educator Community. https://teachers.earsketch.org/about-us  
