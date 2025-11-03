@@ -11,8 +11,6 @@ Table of Contents
 
 [Features](#features)
 
-[Features](#features)
-
 [Setup](#setup)
 
 [Usage](#usage)
@@ -50,8 +48,6 @@ This project was created for the UTS Creative Coding (52685) subject to demonstr
 - Offset Ethnic Layers: Three overlapping string tracks at 6 / 6.25 / 6.5 measures to simulate ensemble timing.
 - Spatial Effects:`setEffect()` reverb (120–140) and delay (0.3–0.4) values for atmospheric depth.
 - Automated Fade-Out:** A final loop gradually reduces volume across all tracks for a seamless outro.
-
-## Screenshots
 
 ## Setup
 Requirements 
