@@ -56,7 +56,7 @@ Requirements
 
 Steps:
 1. Open EarSketch and select Python mode.
-2. Copy the code from 'AMIRAS WEIRD SOUND .py' into the editor.
+2. Copy the code from 'Ear Sketch Code.py' into the editor.
 3. Click Run to render and hear the composition.
 
 ## Usage
